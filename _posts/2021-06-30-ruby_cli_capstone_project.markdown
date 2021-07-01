@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby CLI Capstone Project"
-date:       2021-07-01 01:26:37 +0000
+date:       2021-06-30 21:26:37 -0400
 permalink:  ruby_cli_capstone_project
 ---
 
